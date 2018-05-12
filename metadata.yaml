@@ -1,0 +1,33 @@
+_repo: Louis-School-Days--A-Story-for-Boys_19855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, E. J. (Edith J.)
+    alias: May, Edith J.
+    gutenberg_agent_id: '8922'
+    url: http://www.gutenberg.org/2009/agents/8922
+description: The new boy in an English boarding school, Louis is an even tempered
+  lad who tried to help other boys with their studies. But as he helped others, he
+  fell behind in his own work, and so fell out of the good opinion of the masters.
+  When he falls behind in his own work, one of the boys offers him the "key" book
+  for exercises. Then Louis is accused of stealing the book from the master's desk.
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'Louis'' School Days: A Story for Boys'
+url: http://www.gutenberg.org/ebooks/19855
